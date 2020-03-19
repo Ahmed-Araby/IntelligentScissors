@@ -1,0 +1,101 @@
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+E:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\Project\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\Project\New folder\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\Project\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\Final\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\Final\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\New folder\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+C:\Users\Ahmed Araby\Desktop\New folder\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\New folder\implicit graph\14-12\9 - 12\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\My Study\Collage\Third Year\Algorithms\My Year\Project\Lasso – Intelligent Scissors\Project Versions\26-12\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojResolveAssemblyReference.cache
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\My Study\Build a Project\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojAssemblyReference.cache
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.cache
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\Ahmed Araby\Desktop\INTILLEGENT SICESSOR\Lasso – Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csprojAssemblyReference.cache
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.cache
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.CoreCompileInputs.cache
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+D:\My Study\Projects\IntelligentScissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
